@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddhant-0207/LinkList/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhant-0207/LinkList/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhant-0207/LinkList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Siddhant-0207/LinkList/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
+| [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Siddhant-0207/LinkList/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
