@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
+| [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
 ## Stack
 |  |
 | ------- |
