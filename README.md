@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhant-0207/LinkList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
+| [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
+| [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
