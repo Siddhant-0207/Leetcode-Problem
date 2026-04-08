@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
 ## Counting
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
