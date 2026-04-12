@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddhant-0207/LinkList/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhant-0207/LinkList/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhant-0207/LinkList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
