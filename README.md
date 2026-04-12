@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Backtracking
@@ -135,9 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
