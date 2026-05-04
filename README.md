@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0860-lemonade-change) |
 ## Design
 |  |
 | ------- |
