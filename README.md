@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Siddhant-0207/LinkList/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0055-jump-game) |
 ## Simulation
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
