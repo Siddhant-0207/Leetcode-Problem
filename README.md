@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
