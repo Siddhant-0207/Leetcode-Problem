@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Siddhant-0207/LinkList/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Siddhant-0207/LinkList/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
