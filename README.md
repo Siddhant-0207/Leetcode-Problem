@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Siddhant-0207/LinkList/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3827-count-monobit-integers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Array
 |  |
@@ -206,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3827-count-monobit-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3827-count-monobit-integers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
