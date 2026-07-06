@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3903-smallest-stable-index-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Backtracking
 |  |
