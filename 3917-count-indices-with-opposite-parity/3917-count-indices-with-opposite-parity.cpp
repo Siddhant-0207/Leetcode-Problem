@@ -1,27 +1,20 @@
 class Solution {
 public:
     vector<int> countOppositeParity(vector<int>& nums) {
+        int odd =0 , even =0;
         int n = nums.size();
-        vector<int> ans;
-        for (int i = 0; i < n; i++) {
-            int cnt = 0;
-            if (i == n) {
-                ans.push_back(0);
+        vector <int> ans(n,0);
+        for(int i= nums.size()-1;i>=0;i--)
+        {
+            if(nums[i]&1)
+            {
+                ans[i] = even;
+                odd++;
             }
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] % 2 == 0) {
-                    if (nums[j] % 2 != 0) {
-                        cnt++;
-                    }
-                }
-
-                else {
-                    if (nums[j] % 2 == 0) {
-                        cnt++;
-                    }
-                }
+            else{
+                ans[i]=odd;
+                even++;
             }
-            ans.push_back(cnt);
         }
         return ans;
     }
