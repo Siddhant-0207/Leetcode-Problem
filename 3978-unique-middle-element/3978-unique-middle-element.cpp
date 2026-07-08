@@ -1,18 +1,14 @@
 class Solution {
 public:
     bool isMiddleElementUnique(vector<int>& nums) {
-        int n = nums.size();
-        map<int,int> check;
-        for(int i =0;i<n;i++)
-        {
-            check[nums[i]]++;
+        int mid = nums[nums.size()/2];
+        int cnt = 0;
+
+        for (int x : nums) {
+            if(x==mid)
+                cnt++;
         }
-        int apperance = check[nums[n/2]];
-        if(apperance>=2)
-        {
-            return false ;
-        }
-        else
-        return true ;
+        return cnt ==1;
+       
     }
 };
