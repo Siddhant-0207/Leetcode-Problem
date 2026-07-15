@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3931-check-adjacent-digit-differences) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
