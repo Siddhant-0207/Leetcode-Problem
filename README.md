@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
