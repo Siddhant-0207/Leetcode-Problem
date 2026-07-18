@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2235-add-two-integers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3870-count-commas-in-range](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
