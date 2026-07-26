@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1672-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
