@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3903-smallest-stable-index-i) |
