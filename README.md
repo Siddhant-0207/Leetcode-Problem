@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
 | ------- |
