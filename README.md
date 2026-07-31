@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
