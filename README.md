@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1470-shuffle-the-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
