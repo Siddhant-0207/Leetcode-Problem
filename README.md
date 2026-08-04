@@ -272,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2236-root-equals-sum-of-children) |
 ## Matrix
 |  |
@@ -293,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
