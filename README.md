@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
