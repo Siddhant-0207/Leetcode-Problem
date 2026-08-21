@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3110-score-of-a-string) |
+| [3280-convert-date-to-binary](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3280-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3856-trim-trailing-vowels) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
