@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2396-strictly-palindromic-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
