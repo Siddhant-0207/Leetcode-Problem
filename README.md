@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0098-validate-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
