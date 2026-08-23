@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
