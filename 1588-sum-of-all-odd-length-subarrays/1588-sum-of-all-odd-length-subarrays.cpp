@@ -4,15 +4,14 @@ public:
         int sum =0;
         for(int i =0 ;i <arr.size();i++)
         {
-            vector<int> test;
+            int currentSum =0;
             for(int j= i;j<arr.size();j++)
             {
-                test.push_back(arr[j]);
-                if(test.size()%2!=0){
-                    sum += accumulate(test.begin(),test .end(),0);
-                }
+                currentSum +=arr[j];
+                sum += (j-i+1)%2==1 ? currentSum : 0; 
+                
             }
-            test.clear();
+           
         }
         return sum;
     }
