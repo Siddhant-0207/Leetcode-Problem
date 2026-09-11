@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddhant-0207/LinkList/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siddhant-0207/LinkList/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhant-0207/LinkList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0709-to-lower-case) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Siddhant-0207/LinkList/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Siddhant-0207/LinkList/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Siddhant-0207/LinkList/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
