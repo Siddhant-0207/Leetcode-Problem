@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0992-subarrays-with-k-different-integers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0930-binary-subarrays-with-sum) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0860-lemonade-change) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
