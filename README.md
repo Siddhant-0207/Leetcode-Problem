@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Siddhant-0207/LinkList/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Siddhant-0207/LinkList/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/Siddhant-0207/LinkList/tree/master/3803-count-residue-prefixes) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3668-restore-finishing-order) |
 | [3866-first-unique-even-element](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3866-first-unique-even-element) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3827-count-monobit-integers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Tree
