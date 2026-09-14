@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2706-buy-two-chocolates](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2706-buy-two-chocolates) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/3285-find-indices-of-stable-mountains) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2706-buy-two-chocolates](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2706-buy-two-chocolates) |
 ## Design
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2706-buy-two-chocolates](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2706-buy-two-chocolates) |
 ## Enumeration
 |  |
 | ------- |
