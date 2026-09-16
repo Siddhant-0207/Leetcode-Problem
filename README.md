@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1672-richest-customer-wealth) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Siddhant-0207/Leetcode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
